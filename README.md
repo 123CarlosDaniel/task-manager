@@ -4,7 +4,7 @@ Este repositorio es el contenedor principal para los submódulos de los proyecto
 
 Las aplicaciones están desplegadas en : 
 
-- App: [https://task-manager-frontend.vercel.app/](https://task-manager-frontend.vercel.app/)
+- App: [https://cdcm-task-manager.netlify.app/](https://cdcm-task-manager.netlify.app/)
 - Api: [https://task-manager-api-6ubk.onrender.com/](https://task-manager-api-6ubk.onrender.com/)
 
 ---

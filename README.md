@@ -12,7 +12,7 @@ Las aplicaciones están desplegadas en :
 ## **Video de Demostración**
 Haz clic en el siguiente enlace para ver el video de presentación:
 
-[Video de Presentación](./videos/presentacion.mp4)
+[Video de Presentación](https://drive.google.com/drive/folders/1WRcwv0Qyel1bczmZ7d-0FGR5ST6Yb47k?usp=sharing)
 
 --- 
 
